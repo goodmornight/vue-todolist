@@ -22,7 +22,7 @@ npm run serve
 
 ## 运行效果
 
-
+![运行效果](https://github.com/goodmornight/vue-todolist/blob/test/src/assets/example.jpg?raw=true)
 
 ## 考察内容
 
